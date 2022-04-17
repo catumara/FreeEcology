@@ -5,4 +5,4 @@
 3. com.morecup.component:httpclient
 4. com.morecup.cloudstorage:ykxc-java-sdk
 5. com.morecup.cloudstorage:jdbs
-6. 
+6. com.morecup.tool:system-tool
